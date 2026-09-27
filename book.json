@@ -1,0 +1,18 @@
+[
+    {
+        "id": "B3GL2",
+        "Title": "Five people we meet in heaven",
+        "Author": "Mitch Albom",
+        "Category": "Contemporary fiction",
+        "Copies": 5,
+        "Available": 4
+    },
+    {
+        "id": "BOD20",
+        "Title": "Python Programming",
+        "Author": " Eric Matthes",
+        "Category": "Programming",
+        "Copies": 7,
+        "Available": 2
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "name": "chaitanya",
+        "age": 20,
+        "phone": "1234567890",
+        "email": "chy@gmail.com",
+        "id": "MM9T3M"
+    },
+    {
+        "name": "jay",
+        "age": 20,
+        "phone": "1234567899",
+        "email": "jaych@in.org",
+        "id": "MLH81F"
+    },
+    {
+        "name": "sara",
+        "age": 21,
+        "phone": "1234567891",
+        "email": "sarainzara@gmail.co",
+        "id": "MHK88O"
+    },
+    {
+        "name": "Mitchell",
+        "age": 24,
+        "phone": "1234567890",
+        "email": "mitchhaspitch@somemail.com",
+        "id": "MNT5T0"
+    }
+]
